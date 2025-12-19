@@ -15,12 +15,12 @@ class Mytextfield extends StatelessWidget {
             hintText: hintText,
             border: OutlineInputBorder(),
             enabledBorder: OutlineInputBorder(
-              borderRadius: BorderRadius.circular(25),
-              borderSide: BorderSide(color: Color(0xFF6C56F9)),
+              borderRadius: BorderRadius.circular(15),
+              borderSide: BorderSide(color: Colors.grey),
             ),
             focusedBorder: OutlineInputBorder(
-              borderRadius: BorderRadius.circular(25),
-              borderSide: BorderSide(color: Color(0xFFD3CCFD)),
+              borderRadius: BorderRadius.circular(15),
+              borderSide: BorderSide(color: Colors.deepPurpleAccent),
             )
         ),
       ),

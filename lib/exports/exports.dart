@@ -14,3 +14,5 @@ export 'package:noq_app/components/texts/splash1_texts.dart';
 export 'package:noq_app/components/icons/splash_icons.dart';
 export 'package:noq_app/components/texts/splash2_texts.dart';
 export 'package:noq_app/components/texts/splash3_texts.dart';
+export 'package:noq_app/components/blocks/buttonauth.dart';
+export 'package:noq_app/components/icons/authpages_icons.dart';
