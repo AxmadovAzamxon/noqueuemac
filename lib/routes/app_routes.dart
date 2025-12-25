@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:noq_app/exports/exports.dart';
-import 'package:noq_app/features/Auth/login.dart';
+import 'package:noq_app/features/Auth/login/login.dart';
 import 'package:noq_app/features/splash%20pages/presentetions/splash3.dart';
 
 Widget nextsplash2(BuildContext context) {
